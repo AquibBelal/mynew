@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 xsdas
+=======
+qwe
+ade
+qw
+da
+dq
+
+>>>>>>> newbranch1
